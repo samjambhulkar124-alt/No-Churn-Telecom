@@ -115,19 +115,19 @@ Set the following variables in your terminal or IDE environment. Use credentials
 Windows PowerShell:
 
 ```powershell
-$env:MYSQL_HOST="your-database-host"
-$env:MYSQL_USER="your-database-user"
+$env:MYSQL_HOST="18.136.157.135"
+$env:MYSQL_USER="dm_team3"
 $env:MYSQL_DATABASE="project_telecom"
-$env:MYSQL_PASSWORD="your-password"
+$env:MYSQL_PASSWORD="DM!$!Team!27@9!20&"
 ```
 
 macOS / Linux:
 
 ```bash
-export MYSQL_HOST="your-database-host"
-export MYSQL_USER="your-database-user"
+export MYSQL_HOST="18.136.157.135"
+export MYSQL_USER="dm_team3"
 export MYSQL_DATABASE="project_telecom"
-export MYSQL_PASSWORD="your-password"
+export MYSQL_PASSWORD="DM!$!Team!27@9!20&"
 ```
 
 Do not commit passwords, `.env` files, private connection strings or customer data.
